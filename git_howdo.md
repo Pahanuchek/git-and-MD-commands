@@ -21,3 +21,8 @@ git log --oneline
 ```sh
 git checkout <commit_id>
 ```
+6. Анализ и отображение различий между двумя коммитами или невнесенным изменением и последним коммитов:
+ ```sh
+ git diff
+ git diff <commit_id_1> <commit_id_2>
+ ```
