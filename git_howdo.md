@@ -17,3 +17,7 @@ git commit -m "message"
 git log
 git log --oneline
 ```
+5. Переключение между последними коммитами:
+```sh
+git checkout <commit_id>
+```
