@@ -12,3 +12,8 @@ git add
 ```sh
 git commit -m "message"
 ```
+4. Просмотр истории коммитов в репозитории, и вариант их построчного вывода
+```sh
+git log
+git log --oneline
+```
