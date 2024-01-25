@@ -8,3 +8,7 @@ git init
 ```sh
 git add
 ```
+3. Фиксация изменений с добавлением комментария:
+```sh
+git commit -m "message"
+```
