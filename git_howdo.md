@@ -26,3 +26,8 @@ git checkout <commit_id>
  git diff
  git diff <commit_id_1> <commit_id_2>
  ```
+
+ 7. Отображение всех существующих в репозитории веток:
+ ```sh
+ git branch
+ ```
