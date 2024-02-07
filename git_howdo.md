@@ -31,3 +31,8 @@ git checkout <commit_id>
  ```sh
  git branch
  ```
+
+ 8. Создание новой ветки:
+ ```sh
+git branch <name_branch>
+ ```
