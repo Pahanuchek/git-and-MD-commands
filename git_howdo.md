@@ -36,3 +36,8 @@ git checkout <commit_id>
  ```sh
 git branch <name_branch>
  ```
+
+ 9. Удаление ветки:
+ ```sh
+ git branch -d <name_branch>
+ ```
