@@ -16,6 +16,7 @@ git commit -m "message"
 ```sh
 git log
 git log --oneline
+git log --oneline --graph
 ```
 5. Переключение между последними коммитами:
 ```sh
