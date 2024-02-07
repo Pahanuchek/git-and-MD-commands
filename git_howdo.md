@@ -27,11 +27,6 @@ git checkout <commit_id>
  git diff <commit_id_1> <commit_id_2>
  ```
 
-<<<<<<< HEAD
- Создание новой ветки:
- ```sh
- git branch <имя ветки>
-=======
  7. Отображение всех существующих в репозитории веток:
  ```sh
  git branch
@@ -45,5 +40,9 @@ git branch <name_branch>
  9. Удаление ветки:
  ```sh
  git branch -d <name_branch>
->>>>>>> use_branch
+ ```
+
+ 10. Слияние веток:
+ ```sh
+ git merge <name_branch>
  ```
