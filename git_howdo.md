@@ -41,3 +41,8 @@ git branch <name_branch>
  ```sh
  git branch -d <name_branch>
  ```
+
+ 10. Слияние веток:
+ ```sh
+ git merge имя ветки
+ ```
